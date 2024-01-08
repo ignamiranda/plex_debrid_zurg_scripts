@@ -15,7 +15,7 @@ These scripts go in `%appdata%/Microsoft/Windows/Start Menu/Programs/Startup/`
 
 ## Plex Debrid Installation
 
-This is for convenience. You can run a fully functional set up with just zurg and DMM in the steps above. Even with plex_debrid set up, I use DMM a lot.
+This is for convenience. You can run a fully functional set up with just zurg and DMM in the steps above. Even with plex_debrid set up, I use DMM a lot, especially with the browser extensions.
 
 Get [Python](https://www.python.org/downloads/), if you don't have it.
 
