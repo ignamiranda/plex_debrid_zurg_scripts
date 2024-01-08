@@ -9,7 +9,7 @@ These scripts go in `%appdata%/Microsoft/Windows/Start Menu/Programs/Startup/`
 1. Download [zurg.exe](https://github.com/debridmediamanager/zurg-testing/tree/main/releases/) and [rclone.exe](https://rclone.org/downloads/) and put them in `C:/zurg/`.
 2. Save [config.yml](https://raw.githubusercontent.com/debridmediamanager/zurg-testing/main/config.yml) and [rclone.conf](https://raw.githubusercontent.com/debridmediamanager/zurg-testing/main/rclone.conf) to `C:/zurg/`.
 3. Edit config.yml and add your token.
-4. Download and copy **zurg.vbs** and **rclone_zurg.vbs** from this repo and put them in `%appdata%/Microsoft/Windows/Start Menu/Programs/Startup/`.
+4. Save [zurg.vbs](https://raw.githubusercontent.com/ignamiranda/plex_debrid_zurg_scripts/main/zurg.vbs) and [rclone_zurg.vbs](https://raw.githubusercontent.com/ignamiranda/plex_debrid_zurg_scripts/main/rclone_zurg.vbs) from this repo and put them in `%appdata%/Microsoft/Windows/Start Menu/Programs/Startup/`.
 5. Restart your computer or double click the vbs files to run them manually. They execute silently. You'll know they're running when you see the new mounted `Z:` drive as well as zurg.exe and rclone.exe running in Task Manager.
 6. You can now configure Plex to scan the folders in this drive. Add media using [debridmediamanager.com](https://debridmediamanager.com/).
 
