@@ -15,9 +15,9 @@ These scripts go in `%appdata%/Microsoft/Windows/Start Menu/Programs/Startup/`
 
 ## Plex Debrid Installation
 
-This is for convenience. You can run a fully functional set up with just zurg and DMM in the steps above.
+This is for convenience. You can run a fully functional set up with just zurg and DMM in the steps above. Even with plex_debrid set up, I use DMM a lot.
 
-1. [Download plex debrid](https://codeload.github.com/itsToggle/plex_debrid/zip/refs/heads/main) and extract it to `C:/plex_debrid/`. Even with plex_debrid set up, I use DMM a lot.
+1. [Download plex debrid](https://codeload.github.com/itsToggle/plex_debrid/zip/refs/heads/main) and extract it to `C:/plex_debrid/`.
 2. Run `cd C:/plex_debrid/` in cmd. Run `pip install -r requirements.txt` and then `python main.py`.
 3. Continue the [standard setup guide](https://github.com/itsToggle/plex_debrid#3-page_facing_up-setup-plex_debrid) to set up your "content service". Close the python cmd window when you're done.
 4. Download and copy plex_debrid.vbs from this repo and put it in `%appdata%/Microsoft/Windows/Start Menu/Programs/Startup/`.
