@@ -26,3 +26,7 @@ Get [Python](https://www.python.org/downloads/), if you don't have it.
 5. Before running **plex_debrid.vbs**, add a movie and a show using debridmeadiamanager.com and make sure Plex is already set up to scan the zurg folders.
    * Plex_debrid will refuse to work if your media libraries are empty. This is to protect the user from accidentally repeatedly re-downloading your watchlist if plex_debrid just can't see your library.
 6. Double click the vbs file to run it or restart your computer. Again, it executes silently. You will only see that python is running in Task Manager.
+
+---
+
+This is my way of doing it. Check out the other [guides](https://github.com/debridmediamanager/zurg-testing#guides) if you want.
