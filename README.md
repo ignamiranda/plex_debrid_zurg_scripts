@@ -20,5 +20,5 @@ This is for convenience. You can run a fully functional set up with just zurg an
 3. Continue the [standard setup guide](https://github.com/itsToggle/plex_debrid#3-page_facing_up-setup-plex_debrid) to set up your "content service". Close the python cmd window when you're done.
 4. Download and copy plex_debrid.vbs from this repo and put it in `%appdata%/Microsoft/Windows/Start Menu/Programs/Startup/`.
 5. Before running plex_debrid.vbs, add a movie and a show using debridmeadiamanager.com and make sure Plex is already set up to scan the zurg folders.
-   * Plex_debrid will refuse to work if your media libraries are empty. This is to protect the user from accidentally repeatedly downloading your watchlist if pelx_debrid can't see your library.
+   * Plex_debrid will refuse to work if your media libraries are empty. This is to protect the user from accidentally repeatedly downloading your watchlist if plex_debrid just can't see your library.
 6. Double click to run it or restart your computer. Again, it executes silently. You will only see that python is running in Task Manager.
